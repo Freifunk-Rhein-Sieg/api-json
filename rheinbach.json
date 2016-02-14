@@ -1,48 +1,65 @@
 {
-  "name": "Freifunk Rheinbach",
-  "url": "http://freifunk-rheinbach.de/",
+  "name": "freifunk-rheinbach",
+  "url": "http://freifunk-rheinbach.de",
   "location": {
     "city": "Rheinbach",
     "country": "DE",
-    "lat": 50.625307,
-    "lon": 6.947700499999996
+    "lat": 50.622003,
+    "lon": 6.942542
   },
   "contact": {
-    "email": "thomas@freifunk-rheinbach.de"
+    "email": "router@freifunk-rheinbach.de",
+    "phone": "+49 2226 903737",
+    "facebook": "https://www.facebook.com/freifunkrheinbach",
+    "googleplus": "https://plus.google.com/u/0/communities/109908441895179207109"
   },
   "metacommunity": "Rhein-Sieg",
   "state": {
+    "nodes": 50,
     "focus": [
-      "infrastructure/backbone",
       "Public Free Wifi",
-      "Social Community Building",
-      "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-01T18:14:07.319Z"
+    "lastchange": "2016-02-07T00:32:57.555Z"
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/",
-      "interval": "1 Minute",
+      "url": "http://map.freifunk-rhein-sieg.de",
+      "interval": "1",
       "technicalType": "meshviewer",
       "mapType": "geographical"
     }
   ],
   "techDetails": {
     "firmware": {
-      "name": "gluon",
-      "url": "http://images.freifunk-rhein-sieg.de"
+      "name": "Gluon v2016.1e",
+      "url": "http://images.freifunk-rheinbach.de",
+      "docs": "http://wiki.freifunk-rheinbach.de",
+      "vpnaccess": "fwimage"
+    },
+    "networks": {
+      "ipv6": [
+        {
+          "network": "fda0:747e:ab29:2241::/64"
+        }
+      ],
+      "ipv4": [
+        {
+          "network": "10.111.0.0/16"
+        }
+      ]
     },
     "routing": [
       "batman-adv"
     ],
     "updatemode": [
-      "autoupdate"
+      "none",
+      "manual"
     ],
     "legals": [
+      "vpnnational",
       "institutions"
     ]
   },
-  "api": "0.4.9"
+  "api": "0.4.11"
 }
