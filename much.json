@@ -1,0 +1,48 @@
+{
+  "name": "Freifunk Much",
+  "url": "http://www.freifunk-rhein-sieg.de/",
+  "location": {
+    "city": "Much",
+    "country": "DE",
+    "lat": 50.90397309999999,
+    "lon": 7.4022886999999855
+  },
+  "contact": {
+    "email": "kontakt@freifunk-rhein-sieg.de"
+  },
+  "metacommunity": "Rhein-Sieg",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2016-01-01T18:14:07.319Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-sieg.de/",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://images.freifunk-rhein-sieg.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "institutions"
+    ]
+  },
+  "api": "0.4.9"
+}

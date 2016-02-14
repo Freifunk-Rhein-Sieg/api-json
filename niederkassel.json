@@ -1,17 +1,17 @@
 {
-  "name": "Freifunk Rhein-Sieg",
-  "url": "http://freifunk-rhein-sieg.de",
+  "name": "Freifunk Niederkassel",
+  "url": "http://www.freifunk-niederkassel.de/",
   "location": {
-    "city": "Rhein-Sieg",
+    "city": "Niederkassel",
     "country": "DE",
-    "lat": 50.79336,
-    "lon": 7.20693
+    "lat": 50.8153036,
+    "lon": 7.037671100000011
   },
   "contact": {
-    "email": "kontakt@freifunk-rhein-sieg.de",
+    "email": "kontakt@freifunk-rhein-sieg.de"
   },
+  "metacommunity": "Rhein-Sieg",
   "state": {
-    "nodes": 100,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -19,7 +19,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-19T21:33:30.218Z"
+    "lastchange": "2016-01-01T18:14:07.319Z"
   },
   "nodeMaps": [
     {
@@ -44,5 +44,5 @@
       "institutions"
     ]
   },
-  "api": "0.4.11"
+  "api": "0.4.9"
 }

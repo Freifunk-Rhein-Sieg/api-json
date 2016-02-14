@@ -1,0 +1,48 @@
+{
+  "name": "Freifunk Meckenheim",
+  "url": "https://www.freifunk-meckenheim.de/",
+  "location": {
+    "city": "Meckenheim",
+    "country": "DE",
+    "lat": 50.6258878,
+    "lon": 7.0319507000000385
+  },
+  "contact": {
+    "email": "info-ff@freifunk-meckenheim.de "
+  },
+  "metacommunity": "Rhein-Sieg",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2016-01-01T18:14:07.319Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-sieg.de/",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://images.freifunk-rhein-sieg.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "institutions"
+    ]
+  },
+  "api": "0.4.9"
+}

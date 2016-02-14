@@ -1,0 +1,50 @@
+{
+  "name": "Freifunk Lohmar",
+  "url": "http://freifunk-lohmar.de",
+  "location": {
+    "city": "Lohmar",
+    "country": "DE",
+    "lat": 50.838937519821,
+    "lon": 7.210636138916
+  },
+  "contact": {
+    "email": "kontakt@freifunk-lohmar.de",
+    "facebook": "https://facebook.com/freifunk-lohmar",
+    "twitter": "@FreifunkLO"
+  },
+  "metacommunity": "Rhein-Sieg",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2016-01-01T18:14:07.319Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-sieg.de/",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://images.freifunk-rhein-sieg.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "institutions"
+    ]
+  },
+  "api": "0.4.9"
+}

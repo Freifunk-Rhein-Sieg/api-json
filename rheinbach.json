@@ -1,0 +1,48 @@
+{
+  "name": "Freifunk Rheinbach",
+  "url": "http://freifunk-rheinbach.de/",
+  "location": {
+    "city": "Rheinbach",
+    "country": "DE",
+    "lat": 50.625307,
+    "lon": 6.947700499999996
+  },
+  "contact": {
+    "email": "thomas@freifunk-rheinbach.de"
+  },
+  "metacommunity": "Rhein-Sieg",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2016-01-01T18:14:07.319Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-sieg.de/",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://images.freifunk-rhein-sieg.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "institutions"
+    ]
+  },
+  "api": "0.4.9"
+}
