@@ -25,7 +25,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://data.ff-rr.de/lohmar/jsons/",
+      "url": "http://map.freifunk-rhein-sieg.de/lohmar",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
