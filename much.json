@@ -23,7 +23,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/",
+      "url": "http://map.freifunk-rhein-sieg.de/much",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
