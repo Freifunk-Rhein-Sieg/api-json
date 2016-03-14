@@ -24,7 +24,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de",
+      "url": "http://map.freifunk-rhein-sieg.de/rheinbach",
       "interval": "1",
       "technicalType": "meshviewer",
       "mapType": "geographical"
