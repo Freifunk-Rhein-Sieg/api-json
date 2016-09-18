@@ -23,7 +23,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/sanktaugustin",
+      "url": "http://map.freifunk-rhein-sieg.de/sankt-augustin",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
