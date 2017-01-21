@@ -1,14 +1,15 @@
 {
   "name": "Freifunk Siegburg",
-  "url": "http://www.freifunk-rhein-sieg.de/",
+  "url": "http://www.freifunk-siegburg.de/",
   "location": {
     "city": "Siegburg",
     "country": "DE",
     "lat": 50.7998473,
-    "lon": 7.207451399999968
+    "lon": 7.2074514
   },
   "contact": {
-    "email": "kontakt@freifunk-rhein-sieg.de"
+    "email": "kontakt@freifunk-siegburg.de",
+    "facebook": "https://www.facebook.com/FreifunkSiegburg/"
   },
   "metacommunity": "Rhein-Sieg",
   "state": {
@@ -19,7 +20,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-01T18:14:07.319Z"
+    "lastchange": "2017-01-21T17:07:30.114Z"
   },
   "nodeMaps": [
     {
@@ -32,7 +33,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://images.freifunk-rhein-sieg.de"
+      "url": "http://downloader.freifunk-rhein-sieg.de"
     },
     "routing": [
       "batman-adv"
@@ -44,5 +45,5 @@
       "institutions"
     ]
   },
-  "api": "0.4.9"
+  "api": "0.4.14"
 }
