@@ -20,11 +20,11 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2017-01-21T17:07:30.114Z"
+    "lastchange": "2017-04-22T23:52:30.114Z"
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/siegburg",
+      "url": "http://map.freifunk-siegburg.de",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
