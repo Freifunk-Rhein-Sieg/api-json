@@ -9,7 +9,8 @@
   },
   "contact": {
     "email": "kontakt@freifunk-siegburg.de",
-    "facebook": "https://www.facebook.com/FreifunkSiegburg/"
+    "facebook": "https://www.facebook.com/FreifunkSiegburg/",
+    "twitter": "@ff_siegburg"
   },
   "metacommunity": "Rhein-Sieg",
   "state": {
@@ -20,8 +21,16 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2017-04-22T23:52:30.114Z"
+    "lastchange": "2017-06-26T19:32:32.163Z"
   },
+  "feeds": [
+    {
+      "name": "FFSU Blog",
+      "category": "blog",
+      "type": "rss",
+      "url": "https://www.freifunk-siegburg.de/feed/"
+    }
+  ],
   "nodeMaps": [
     {
       "url": "http://map.freifunk-siegburg.de",
@@ -33,7 +42,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://downloader.freifunk-rhein-sieg.de"
+      "url": "http://downloader.freifunk-siegburg.de/"
     },
     "routing": [
       "batman-adv"
