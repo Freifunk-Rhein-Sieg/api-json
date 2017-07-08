@@ -25,7 +25,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/lohmar",
+      "url": "http://map.freifunksiegburg.de",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
