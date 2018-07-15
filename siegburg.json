@@ -28,7 +28,7 @@
       "name": "FFSU Blog",
       "category": "blog",
       "type": "rss",
-      "url": "https://www.freifunk-siegburg.de/feed/"
+      "url": "http://www.freifunk-siegburg.de/feed/"
     }
   ],
   "nodeMaps": [
