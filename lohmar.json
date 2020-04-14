@@ -8,7 +8,7 @@
     "lon": 7.210636138916
   },
   "contact": {
-    "email": "kontakt@freifunk-lohmar.de",
+    "email": "technik@freifunk-rhein-sieg.net",
     "facebook": "https://facebook.com/freifunk-lohmar",
     "twitter": "@FreifunkLO"
   },
@@ -21,11 +21,11 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-01T18:14:07.319Z"
+    "lastchange": "2020-04-14T18:36:07.319Z"
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/lohmar",
+      "url": "http://map.freifunk-rhein-sieg.net",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
@@ -34,7 +34,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://images.freifunk-rhein-sieg.de"
+      "url": "http://firmware.freifunk-rhein-sieg.net"
     },
     "routing": [
       "batman-adv"
