@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Ruppichteroth",
-  "url": "http://www.freifunk-rhein-sieg.de/",
+  "url": "http://www.freifunk-rhein-sieg.net/",
   "location": {
     "city": "Ruppichteroth",
     "country": "DE",
@@ -19,11 +19,11 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-01-01T18:14:07.319Z"
+    "lastchange": "2023-09-10T16:42:07.319Z"
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-rhein-sieg.de/ruppichteroth",
+      "url": "http://map.freifunk-rhein-sieg.net",
       "interval": "1 Minute",
       "technicalType": "meshviewer",
       "mapType": "geographical"
@@ -32,7 +32,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://images.freifunk-rhein-sieg.de"
+      "url": "https://downloader.freifunk-rhein-sieg.net"
     },
     "routing": [
       "batman-adv"
