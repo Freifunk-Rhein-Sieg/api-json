@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Lohmar",
-  "url": "http://freifunk-lohmar.de",
+  "url": "http://freifunk-rhein.-sieg.net",
   "location": {
     "city": "Lohmar",
     "country": "DE",
@@ -8,9 +8,8 @@
     "lon": 7.210636138916
   },
   "contact": {
-    "email": "technik@freifunk-rhein-sieg.net",
-    "facebook": "https://facebook.com/freifunk-lohmar",
-    "twitter": "@FreifunkLO"
+    "email": "technik@freifunk-rhein-sieg.net"
+    
   },
   "metacommunity": "Rhein-Sieg",
   "state": {
@@ -21,7 +20,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2020-04-14T18:36:07.319Z"
+    "lastchange": "2023-09-10T16:07:07.319Z"
   },
   "nodeMaps": [
     {
