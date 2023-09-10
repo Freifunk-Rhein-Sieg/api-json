@@ -19,7 +19,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2023-09-10T16:37:07.319Z"
+    "lastchange": "2023-09-10T16:40:07.319Z"
   },
   "nodeMaps": [
     {
@@ -32,7 +32,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "https://map.freifunk-rhein-sieg.net"
+      "url": "https://downloader.freifunk-rhein-sieg.net"
     },
     "routing": [
       "batman-adv"
