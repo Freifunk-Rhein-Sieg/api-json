@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Niederkassel",
-  "url": "http://www.freifunk-rhein-sieg.net/",
+  "url": "https://www.freifunk-rhein-sieg.net/",
   "location": {
     "city": "Niederkassel",
     "country": "DE",
@@ -19,7 +19,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2023-09-10T16:08:07.319Z"
+    "lastchange": "2023-09-10T16:24:07.319Z"
   },
   "nodeMaps": [
     {
