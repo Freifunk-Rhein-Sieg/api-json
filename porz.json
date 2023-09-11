@@ -1,0 +1,78 @@
+{
+  "name": "Freifunk Porz",
+  "url": "https://www.freifunk-rhein-sieg.net",
+  "location": {
+    "city": "Porz",
+    "country": "DE",
+    "geoCode": {
+      "lat": 50.885140152,
+      "lon": 7.061376572
+    },
+    "address": {
+      "zipcode": "51143 "
+    }
+  },
+  "contact": {
+    "email": "technik@freifunk-rhein-sieg.net"
+  },
+  "metacommunity": "Freifunk Rhein-Sieg",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2023-09-11T13:56:00+02:00",
+    "nodes": 19,
+    "message": "Nodes from City- and social net"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-rhein-sieg.net",
+      "interval": "1 Minute",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "https://downloader.freifunk-rhein-sieg.net/"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "institutions"
+    ]
+  },
+  "api": "0.5.2",
+  "socialprojects": {
+    "number": 2
+  },
+  "support": {
+    "club": {
+      "name": "Freifunk Rhein-Sieg e.V.",
+      "city": "Troisdorf",
+      "zip": "53840",
+      "url": "https://freifunk-rhein-sieg.net/",
+      "email": "kontakt@freifunk-rhein-sieg.net",
+      "street": "Wilhelm-Hamacher-Platz 12"
+    },
+    "donations": {
+      "bankaccount": {
+        "usage": "for Freifunk Porz",
+        "IBAN": "DE28 8306 5408 0005 2140 68",
+        "BIC": "GENODEF1SLR"
+      }
+    }
+  },
+  "privacy": {
+    "policyurl": "https://freifunk-rhein-sieg.net/datenschutz/"
+  }
+}
